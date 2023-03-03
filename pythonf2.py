@@ -1,5 +1,5 @@
 import os
-List1 = {2, 9, 3, 6, 1, 10}
+List1 = { 2, 9, 3, 6, 1, 10}
 List1.reverse()
 print("The reverse list is", List1)
 
