@@ -1,10 +1,6 @@
-a = 7
-b = 2
+num1 = 1.5
+num2 = 6.3
 
-print ("Sum: ", a + b)  
+sum = num1 + num2
 
-print ("Subtraction: ", a - b)   
-
-print ("Multiplication: ", a * b)  
-
-print ("Division: ", a / b) 
+print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))
