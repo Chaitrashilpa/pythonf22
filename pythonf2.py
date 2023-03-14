@@ -1,4 +1,4 @@
 num1 = 1
 num2 = 6
 sum = num1 + num2
-print('The sum of {0} and {1} is {2}'.sum)
+print('The sum of {0} and {1} is {2}',sum)
